@@ -1,0 +1,44 @@
+_repo: The-Master-Spirit_67703
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cameron, John
+    alias: Cameron, J. (John)
+    gutenberg_agent_id: '37833'
+    url: http://www.gutenberg.org/2009/agents/37833
+creator:
+  author:
+    agent_name: Magnay, William, Sir
+    alias: Magnay, Sir William
+    birthdate: 1855
+    deathdate: 1917
+    gutenberg_agent_id: '3271'
+    url: http://www.gutenberg.org/2009/agents/3271
+    wikipedia: https://en.wikipedia.org/wiki/Sir_William_Magnay,_2nd_Baronet
+description: ''
+gutenberg_issued: '2022-03-25'
+identifiers:
+  gutenberg: '67703'
+language: en
+pgterms:marc904: https://archive.org/details/masterspirit00magniala
+pgterms:marc905: 20181208142606magnay
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Little, Brown, and Company,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Countesses -- Fiction'
+- !lcsh 'Trials (Murder) -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Lawyers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Master Spirit
+url: http://www.gutenberg.org/ebooks/67703
